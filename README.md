@@ -18,6 +18,6 @@ Open source project to manage students of Root IT and the Odyssey coding contest
 ## Team project with a maximum of 3 per team with a mentor from Examsign. You can choose your team members/mentor. 
 ## Mentors: Vignesh, Thalif, Aravinth, Keerthana. 
 ## Each team must present their solution for contest management, scoring, student management, application design, dashboard design, leaderboard design, etc., on Monday (25-01-2021).
-## One team will be selected to implement the project. Selected TeamwWill be announced on Wednesday (27-01-2021).
+## One team will be selected to implement the project. Selected Team will be announced on Wednesday (27-01-2021).
 
 ## Preferred Development Platform: C#, WPF/Windows Forms, MS-SQL Server, ASP.NET. (Can include other platforms if necessary)
