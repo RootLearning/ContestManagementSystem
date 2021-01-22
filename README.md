@@ -7,6 +7,7 @@ Open source project to manage students of Root IT and the Odyssey coding contest
 2. Create and manage contests, problem links, etc.
 3. Contest is posted as a .md file in github automatically from the application. 
 3. Contest scoring system for the leaderboard. Relative or absolute scores. You will have to decide and come up with an effective scoring system. 
+3. Scoring for the Contest Discussions to be included to the leaderboard. You will have to decide and come up with an effective scoring and integration system. 
 4. Dashboard to view/showcase overall and individual student performance in the leaderboard. 
 5. Manage contest participants, problems, etc. 
 
