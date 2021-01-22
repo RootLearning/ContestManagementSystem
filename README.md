@@ -7,7 +7,20 @@ Open source project to manage students of Root IT and the Odyssey coding contest
 2. Create and manage contests, problem links, etc.
 3. Contest is posted as a .md file in github automatically from the application. 
 3. Contest scoring system for the leaderboard. Relative or absolute scores. You will have to decide and come up with an effective scoring system. 
+* Parameters for Evaluation:
+   * Time of Submission (earlier the better)
+   * Number of Submissions per Question (lower the better)
+   * If not accepted, the number of passed test cases will be considered. 
+   * Time and Space Complexity of the Proposed Solution (lower the better)
+   * Time Taken for Execution (lower the better)
+   * Memory Utilised (lower the better)
 3. Scoring for the Contest Discussions to be included to the leaderboard. You will have to decide and come up with an effective scoring and integration system. 
+* Parameters for Evaluation:
+  * Explaining the Problem Statement Clearly and Relating the Problem Statement to Similar Problems/Algorithms/Approaches encountered in the past.
+  * Providing Explanations for Unique/Interesting Test Cases and the Catch or Need for those Unique/Interesting Test Cases.
+  * Providing and Explaining Efficient Solutions.
+  * Introducing and Explaining New Patterns for Solving Similar Problems.
+  * Providing and Explaining Templates/Boilerplate Code/Code Snippets that will help others perform better or faster during contests, etc.
 4. Dashboard to view/showcase overall and individual student performance in the leaderboard. 
 5. Manage contest participants, problems, etc. 
 
